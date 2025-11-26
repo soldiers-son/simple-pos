@@ -2,7 +2,7 @@
 
 Author: soldiers_son
 
-pos.py Version: 1.0
+POS.py Version: 1.0
 
 Python: 3.11+
 
@@ -30,6 +30,7 @@ This is simple lightweight Point Of Sale application designed for small business
 - Toolbar menu with:
   • Sales & Inv → Easily view sales and input items into current stock 
   • Help → Help / About / Source Code
+  • Source Code
   
 - Clean Tkinter-based interface.
 
@@ -49,10 +50,10 @@ This is simple lightweight Point Of Sale application designed for small business
 4. Run the application:
 
    Windows:
-   > python pos.py
+   > python POS.py
 
    Linux/Mac:
-   $ python3 pos.py
+   $ python3 POS.py
 
 ----------------------------------------------------
 6. Dependencies
@@ -64,7 +65,7 @@ Install required packages via pip:
 ----------------------------------------------------
 7. Usage
 ----------------------------------------------------
-- Run `pos.py` to start the application.
+- Run `POS.py` to start the application.
 - Click "Inv" in menubar to input current stock.
 - Select the desired item on the main menu you wish to add to order, enter quantity, and press submit.
 - View the current order by clickling the "Cart".
