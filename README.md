@@ -21,7 +21,7 @@ work makes this project possible.
 ----------------------------------------------------
 This is simple lightweight Point Of Sale application designed for small business owners.
 
-<img src="main_demo.png" />
+<img src="demo_main.png" />
 
 ----------------------------------------------------
 2. Features
@@ -67,10 +67,12 @@ Install required packages via pip:
 ----------------------------------------------------
 - Run `POS.py` to start the application.
 - Click "Inv" in menubar to input current stock.
+  <img src="demo_inv.png" />
 - Select the desired item on the main menu you wish to add to order, enter quantity, and press submit.
 - View the current order by clickling the "Cart".
 - Once the order is finished, press "Finalize" to confirm and complete the order.
 - View sales data by selecting "Sales' in menubar.
+  <img src="demo_sales.png" />
   
 ----------------------------------------------------
 8. Future Goals
