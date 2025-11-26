@@ -35,13 +35,13 @@ This is simple lightweight Point Of Sale application designed for small business
 - Clean Tkinter-based interface.
 
 ----------------------------------------------------
-4. Requirements
+3. Requirements
 ----------------------------------------------------
 - Python 3.11 or higher
 - customtkinter
 
 ----------------------------------------------------
-5. Installation
+4. Installation
 ----------------------------------------------------
 1. Clone or download this repository.
 2. Place the project folder on your desktop or 
@@ -56,14 +56,14 @@ This is simple lightweight Point Of Sale application designed for small business
    $ python3 POS.py
 
 ----------------------------------------------------
-6. Dependencies
+5. Dependencies
 ----------------------------------------------------
 Install required packages via pip:
 
    pip install customtkinter
 
 ----------------------------------------------------
-7. Usage
+6. Usage
 ----------------------------------------------------
 - Run `POS.py` to start the application.
 - Click "Inv" in menubar to input current stock.
@@ -75,11 +75,11 @@ Install required packages via pip:
   <img src="demo_sales.png" />
   
 ----------------------------------------------------
-8. Future Goals
+7. Future Goals
 ----------------------------------------------------
 Planned expansions include:
 
-- Extended data visualization of data
+- Extended data visualization
 - Search & Filter data
 - Stripe payment integration
 - Web Api
@@ -87,20 +87,21 @@ Planned expansions include:
 - Better cart management
 - Edit currently listed in stock items
 - Ability to save current order for later retrieval
+- Kiosk for customer display
 
 ----------------------------------------------------
-9. Contributing
+8. Contributing
 ----------------------------------------------------
 Suggestions and improvements are welcome. 
 Fork the repo, make your changes, and submit a PR.
 
 ----------------------------------------------------
-10. License
+9. License
 ----------------------------------------------------
 This project is open source under the MIT License.
 
 ----------------------------------------------------
-11. Contact
+10. Contact
 ----------------------------------------------------
 Author: soldiers_son
 
