@@ -28,11 +28,19 @@ This is simple lightweight Point Of Sale application designed for small business
 ----------------------------------------------------
 
 - Toolbar menu with:
+
   • Sales & Inv → Easily view sales and input items into current stock 
+
   • Help → Help / About / Source Code
-  • Source Code
+
   
 - Clean Tkinter-based interface.
+
+  •Add items to your stock list
+
+  •Fill orders
+
+  •Finalize Purchase
 
 ----------------------------------------------------
 3. Requirements
