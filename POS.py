@@ -419,7 +419,7 @@ def delete_selection():
 #########################
 
 app = tk.Tk()
-app.title('Solace POS')
+app.title('Simple POS')
 app.geometry('640x300')
 app.tk_setPalette("#1F1F1F")
 
