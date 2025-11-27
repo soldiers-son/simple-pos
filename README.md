@@ -1,6 +1,6 @@
 # simple-pos
 
-Author: soldiers_son
+Author: soldiers-son
 
 POS.py Version: 1.0
 
@@ -103,7 +103,7 @@ This project is open source under the MIT License.
 ----------------------------------------------------
 10. Contact
 ----------------------------------------------------
-Author: soldiers_son
+Author: soldiers-son
 
 GitHub: (https://github.com/soldiers-son?tab=repositories)
 
