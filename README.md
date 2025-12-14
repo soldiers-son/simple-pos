@@ -19,7 +19,7 @@ work makes this project possible.
 ----------------------------------------------------
 1. Introduction
 ----------------------------------------------------
-This is simple lightweight Point Of Sale application designed for small business owners.
+This is a lightweight Point Of Sale application designed for small business owners.
 
 <img src="demo_main.png" />
 
